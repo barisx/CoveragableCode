@@ -64,4 +64,4 @@ if __name__ == '__main__':
 ```
 
 Now all is coveraged by tests.
-Now our function is coveragable.
+Now our last function `conversation` is coveragable.
